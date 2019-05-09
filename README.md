@@ -2,7 +2,7 @@
 
 # 五行
 
-## Serdes
+# Serdes
 https://en.wikipedia.org/wiki/SerDes
 
 # Eye Diagram
