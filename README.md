@@ -19,3 +19,8 @@ http://emlab.uiuc.edu/ece546/ankit.pdf
 https://en.wikipedia.org/wiki/Intersymbol_interference
 
 # Tx tap 3
+
+
+
+## Other Extra References
+https://en.wikipedia.org/wiki/Management_Data_Input/Output
